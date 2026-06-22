@@ -1,0 +1,69 @@
+Frequently Asked Questions (FAQ)
+
+General Information
+1. What is this service?
+We provide a cloud-based platform designed to help you manage your projects, collaborate with your team, and streamline your daily workflows from a single unified dashboard.
+
+2. How do I create an account?
+Click the "Sign Up" button in the top right corner of our homepage. Enter your email address, create a secure password, and follow the verification link sent to your inbox to activate your account.
+
+3. Can I have multiple accounts?
+Yes, you can register multiple accounts using different email addresses. However, for team collaboration, we recommend creating one primary account and inviting others as team members.
+
+4. How do I reset my password?
+Navigate to the login page and click "Forgot Password." Enter your registered email address, and we will send you a link to securely reset your password.
+
+5. How do I delete my account?
+Log in to your account, go to "Settings," select "Account Management," and click "Delete Account." Please note that this action is irreversible and will permanently erase all your data.
+
+Billing & Subscriptions
+6. What payment methods do you accept?
+We accept all major credit and debit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay. Annual enterprise plans can also be paid via wire transfer.
+
+7. Is there a free trial?
+Yes, we offer a 14-day free trial on all our premium plans. No credit card is required to sign up for the trial.
+
+8. How do I upgrade my subscription?
+Go to your dashboard, click on "Billing," and select "Change Plan." Choose the tier you wish to upgrade to, and your account will be instantly updated.
+
+9. How do I cancel my subscription?
+You can cancel your subscription at any time by visiting the "Billing" section in your account settings and clicking "Cancel Subscription." You will retain access to premium features until the end of your current billing cycle.
+
+10. Can I get a refund?
+We offer a 30-day money-back guarantee for all new subscriptions. If you are not satisfied within your first 30 days, please contact our support team for a full refund.
+
+11. Where can I find my invoices?
+All past and current invoices can be viewed and downloaded as PDFs from the "Billing History" tab within your account settings.
+
+Features & Usage
+12. Is there a mobile app available?
+Yes, our mobile app is available for both iOS and Android devices. You can download it for free from the Apple App Store or Google Play Store.
+
+13. Do you offer an API for developers?
+Yes, we offer a robust REST API for users on our Professional and Enterprise plans. Comprehensive documentation can be found in our Developer Portal.
+
+14. Are there storage limits?
+Storage limits depend on your subscription plan. The Basic plan includes 10GB, the Professional plan includes 100GB, and the Enterprise plan offers unlimited storage.
+
+15. Can I collaborate with team members?
+Absolutely. You can invite team members to your workspace by entering their email addresses in the "Team" section. You can also assign them specific roles and permissions.
+
+16. Does this platform work offline?
+Our mobile applications support offline mode for viewing and basic editing. Changes made offline will automatically sync to the cloud once your device reconnects to the internet.
+
+Security & Privacy
+17. Is my data secure?
+We take security very seriously. All data is encrypted in transit and at rest using industry-standard AES-256 encryption. We also perform regular third-party security audits.
+
+18. Do you share my information with third parties?
+We do not sell your personal data to third parties. We only share data with trusted service providers necessary to operate our platform (e.g., payment processors), as outlined in our Privacy Policy.
+
+19. How do I enable Two-Factor Authentication (2FA)?
+Go to "Settings," select "Security," and toggle on "Two-Factor Authentication." You can link it to an authenticator app like Google Authenticator or Auth.
+
+Support & Troubleshooting
+20. What should I do if I find a bug?
+If you encounter a bug or glitch, please take a screenshot and send it to our support team along with a description of the issue and the browser/device you are using.
+
+21. How can I contact customer support?
+You can reach our support team 24/7 via the live chat widget in the bottom right corner of your dashboard, or by emailing support@example.com. We aim to respond to all inquiries within 2 hours.
