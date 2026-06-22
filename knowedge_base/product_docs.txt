@@ -1,0 +1,23 @@
+### 3.2 Developer REST API
+For Professional and Enterprise users, we provide a robust REST API to integrate the platform with your existing tech stack (e.g., CRMs, internal databases). Comprehensive endpoints and authentication guidelines are housed in the Developer Portal.
+
+### 3.3 Team Collaboration & Permissions
+The platform is built for multi-user workspaces. 
+* **Centralized Workspaces:** While users can hold multiple individual accounts, the best practice is to maintain one primary account and invite colleagues as "Team Members."
+* **Access Control:** Administrators can assign specific roles and permissions to control who can view, edit, or delete project data.
+
+## 4. Security & Data Integrity
+
+Protecting your project data is our highest priority. We employ strict security measures and do not sell personal information to third parties.
+
+* **Encryption:** All data transmitted to and from the platform is encrypted in transit and secured at rest using industry-standard **AES-256 encryption**.
+* **Two-Factor Authentication (2FA):** Users can secure their accounts against unauthorized access by enabling 2FA. The platform natively supports time-based one-time password (OTP) authenticator apps, such as Google Authenticator and Auth.
+* **Third-Party Audits:** We conduct regular, independent security audits to ensure our infrastructure remains resilient against emerging threats.
+
+## 5. Support & Service Level Agreements (SLA)
+
+We provide highly responsive support channels to ensure your team experiences minimal downtime.
+
+* **24/7 Live Chat:** Accessible directly from the bottom right corner of the user dashboard for immediate assistance.
+* **Email Support:** Users can email support inquiries to `support@example.com`. Our guaranteed response time for all email tickets is **under 2 hours**.
+* **Bug Reporting:** Users are encouraged to submit screenshots and device/browser details when reporting glitches to expedite the troubleshooting process.
